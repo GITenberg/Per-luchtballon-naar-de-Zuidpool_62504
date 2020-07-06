@@ -1,0 +1,41 @@
+_repo: Per-luchtballon-naar-de-Zuidpool_62504
+_version: 0.0.1
+alternative_title: Balonem do Bieguna. Dutch
+contributor:
+  translator:
+    agent_name: Andriessen, Simon Jacob
+    aliases:
+    - Andriessen, Simon Jacobus
+    - Andriessen, S. J.
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '31433'
+    url: http://www.gutenberg.org/2009/agents/31433
+creator:
+  author:
+    agent_name: Uminski, Wladyslaw
+    aliases:
+    - Uminski, W. (Wladyslaw)
+    - Uminski, Wladyslaw Jan
+    birthdate: 1865
+    deathdate: 1954
+    gutenberg_agent_id: '51970'
+    url: http://www.gutenberg.org/2009/agents/51970
+    wikipedia: https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Umi%C5%84ski
+description: ''
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62504'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary'
+- !lcsh 'Antarctica -- Aerial exploration -- Fiction'
+- !lcsh 'Balloons -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Per luchtballon naar de Zuidpool
+url: http://www.gutenberg.org/ebooks/62504
